@@ -1,0 +1,55 @@
+Slide 1: 
+
+"Welcome, everyone! My name is Aamod Paudel, and I am so excited to be your instructor for AI Innovators this week."
+"We are going to dive into the coolest, fastest-moving technology in the world right now: Artificial Intelligence. We aren't just going to use it; we are going to learn how it works, how to code it, and how to build with it."
+"Let's do a quick poll: Raise your hand or use the zoom interaction if you've ever talked to Siri or Alexa, used a Snapchat filter, or played a video game against computer-controlled players. Guess what? You've already interacted with AI!"
+
+Slide 2:
+
+"So, what exactly is Artificial Intelligence? Simply put, AI is a way to teach computers to do things that normally require human brainpower."
+"Normally, computers only do exactly what we code them to do, step-by-step. But with AI, we can train computers to recognize faces, understand human speech, and even beat world champions at chess or video games!"
+
+Slide 3:
+
+"But how do they learn this? Through a process called Machine Learning."
+"Think about how a small baby learns what a 'dog' is. You point to a dog and say 'dog.' You do this a dozen times. Eventually, their brain picks up the pattern: four legs, fur, tail, barks. AI works the exact same way!"
+"We feed the computer thousands of pictures of dogs. These pictures are called Data. The AI looks at the data, finds the patterns, and eventually learns to recognize a dog on its own."
+
+Slide 4:
+
+"One of the coolest types of AI right now is called Generative AI. Instead of just sorting data (like recognizing a dog), it actually creates new things—like drawing art, making music, or writing text."
+"The most famous one right now is ChatGPT. Think of ChatGPT as a massive, super-powered autocomplete. It has read almost the entire internet, so when you ask it a question, it predicts the absolute best words to respond with."
+Interactive Demo: "Let's test it live. I need your help to give ChatGPT a prompt. Type in the chat or shout out: an Animal, a Location, and an Object!" 
+*(Wait 15 seconds for replies, then type their answers into a live ChatGPT window: "Write a funny 3-sentence story about a [penguin] at a [volcano] who finds a [skateboard].")* 
+*(Read the result aloud with high energy!)*
+
+Slide 5:
+
+"Generative AI isn't just for writing funny stories. It can also act as an incredible personal tutor. Let's look at how AI approaches math."
+"Math is basically the ultimate treasure hunt—and our goal is always to find 'x'. Here we have the equation: 3x plus 5 equals 17."
+Interactive Demo: *(Click the 'Solve' button)*
+"Watch closely. The AI doesn't just guess the final number. It actually shows its work, step-by-step. It explains how to subtract five from both sides, and then divide by three, safely guiding us to the final answer that x equals four. It teaches you how to think, instead of just handing you the answer."
+
+Slide 6:
+
+"Let's take this out of the classroom and into the kitchen. Have you ever looked in your fridge, seen a bunch of random food, and had no idea what to cook?"
+"Welcome to the AI Kitchen Helper! We have a pantry with eight different ingredients here. I need you guys to pick exactly four. Shout them out!"
+*(Wait for the class to pick 4 ingredients, and click the corresponding boxes on screen to highlight them)*
+Interactive Demo: *(Click 'Generate Recipe' once 4 are selected)*
+"Awesome! Now the AI is taking those exact four random ingredients and inventing a completely custom dish just for us. It gives us the prep time, cook time, and step-by-step instructions. That's the real power of AI—taking simple inputs and creating something completely new and useful in seconds."
+
+Slide 7:
+
+"Those demos were awesome! But here is the catch we will talk about a lot this week: AI is only as smart as the data we give it."
+"Imagine we train an AI to recognize apples, but we only show it pictures of red apples. If we hand it a green apple, it will fail. It won't know what it's looking at. This is called Bias."
+"If we aren't careful, the AI we build can reflect our own blind spots and make unfair decisions. It is up to us—the next generation of AI Innovators in this room—to make sure we build AI that is fair, safe, and helpful to everyone."
+
+Slide 8:
+
+"Because AI isn't just about chatting or making recipes—it's out there in the real world saving lives and making things easier. When you see a self-driving car, that's Computer Vision in action—the AI is 'seeing' and identifying stop signs and pedestrians in real-time."
+"In hospitals, AI helps doctors analyze X-rays faster than humans ever could to catch illnesses early. And on a daily basis, when Spotify knows exactly which song you want to hear next, that's a Recommender System studying your patterns to personalize your world."
+
+Slide 9: 
+
+"This week, you aren't just going to be users of AI—you're going to be the Innovators. Your mission this week is to identify a problem—maybe it's climate change, or maybe it's just a way to organize your messy room—and design an AI solution for it."
+"We're going to prototype, test, and refine your ideas using real AI platforms. By Friday, you won't just understand the future—you'll have started building it. So, think big! What is one thing you've always wished a computer could do for you? Let's go find out if we can make it happen!"
